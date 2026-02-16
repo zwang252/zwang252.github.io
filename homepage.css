@@ -10,3 +10,8 @@
 .currentpage {
     background-color: #0096FF;
 }
+
+img {
+    height: 15px;
+    width: 15px;
+}
