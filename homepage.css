@@ -2,4 +2,6 @@
     color: white;
     position: absolute;
     top: 0;
+    display: flex;
+    justify-content: space-between;
 }
