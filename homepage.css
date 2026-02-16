@@ -1,5 +1,6 @@
 #navbar {
     background-color: #add8e6;
+    width: 500px;
     position: absolute;
     top: 0;
     display: flex;
