@@ -1,8 +1,13 @@
-#navbar {
+.navbar {
     background-color: #add8e6;
-    width: 500px;
+    width: 100%;
     position: absolute;
     top: 0;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.currentpage {
+    background-color: #000000;
+    color: #FFFFFF;
 }
