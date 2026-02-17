@@ -11,3 +11,5 @@ Zane Wang
 3. For the design of the website, I really wanted the page to be easy on the eyes, so I chose a light blue for the navbar. I really liked the darker shade used in the currently selected page on the navbar as well, as the current page was still legible even with the darker color. Finally, I was able to find a color for the font that matched pretty well to the generated logo from design.com. I also really was proud of the hover over navbar links that cause them to highlight with the same color.
 4. Given more time and resources, I would create more popups that display useful information. I think having a help button with the image standard of a question mark on the page with the puzzles would be nice. I would have the help button open the rules in the same page, rather than having to navigate to the rules page for the rules.
 5. I spent about 20 hours, 10 hours spread throughout different the two weeks.
+
+I got the logo image from Design.com and the sudoku puzzles from Sudoku.net
