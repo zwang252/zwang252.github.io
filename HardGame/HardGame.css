@@ -58,6 +58,7 @@ td {
         height: 100px;
         padding: 0px;
         margin: 0px;
+        font-size: 50%;
     }
 }
 
@@ -80,5 +81,6 @@ input {
         height: 50px;
         padding: 0px;
         margin: 0px;
+        font-size: 50%;
     }
 }
