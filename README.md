@@ -1,7 +1,9 @@
 # zwang252.github.io
 
-zwang252.github.io
-https://github.com/zwang252/zwang252.github.io
+Website Link: zwang252.github.io
+Github Link: https://github.com/zwang252/zwang252.github.io
+Demo Link: https://northeastern-my.sharepoint.com/:v:/g/personal/wang_zan_northeastern_edu/IQCde5_DapypS7L8XfCsEbYGAZ2mjxxYfpMd0t96w6tvcxg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P1nkf1
+
 Zane Wang
 
 1. The most challenging part of the assignment was ensuring it works well on mobile as well. I think it was challenging to work in HTML and CSS as I'm not super familiar with it. This assignment took 20 hours.
